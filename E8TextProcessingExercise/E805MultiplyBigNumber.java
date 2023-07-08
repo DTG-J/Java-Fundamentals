@@ -15,3 +15,4 @@ public class E805MultiplyBigNumber {
         System.out.println(finalNum);
     }
 }
+//По условие тази задача следва да се реши без класа BigInteger!!!
