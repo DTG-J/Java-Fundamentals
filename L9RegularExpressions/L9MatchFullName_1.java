@@ -18,6 +18,6 @@ public class L9MatchFullName_1 {
 
         }
 
-
+//input -> Ivan Ivanov, Ivan ivanov, ivan Ivanov, IVan Ivanov, Georgi Georgiev, Ivan Ivanov
     }
 }
